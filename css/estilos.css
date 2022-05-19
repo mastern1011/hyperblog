@@ -1,7 +1,6 @@
 body
 {
-    background: gray;
-    color: #333;
+    color: black;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -39,13 +38,17 @@ body
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+
 #container h1
 {
     font-size: 20px;
 
 }
-#post
+
+#footer
 {
-    background: white;
-    padding: 1em;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
